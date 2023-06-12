@@ -1,4 +1,4 @@
-keylog_path = *<PATH TO LOG.TXT
+keylog_path = *<PATH TO LOG.TXT>
     #NoEnv           
 		*~a::log("a", keylog_path)
                 *~b::log("b", keylog_path)
